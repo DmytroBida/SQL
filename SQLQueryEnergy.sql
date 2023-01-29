@@ -1,4 +1,4 @@
-SELECT *
+SELECT *                                                                  --All data from https://catalog.data.gov/dataset/annual-electricity-price-by-state
 FROM portfolio..energy
 
 -- Some rows are with NULL in transportation column, lets replace It
